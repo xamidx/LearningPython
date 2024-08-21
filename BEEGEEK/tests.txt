@@ -1,0 +1,174 @@
+Номер теста	Входные данные	Выходные данные
+1	
+6
+Поколение Python: Correct
+Вася Пупкин: Wrong
+evil_666: Correct
+Поколение Python: Correct
+Поколение Python: Wrong
+Сэм Альтман: Correct
+Верно решили 3 учащихся
+Из всех попыток 67% верных
+2	
+2
+МонаЛиза): Wrong
+_Дарт Вейдерович_: Wrong
+Вы можете стать первым, кто решит эту задачу
+3	
+2
+Духота Душнилов: Wrong
+Духота Душнилов: Correct
+Верно решили 1 учащихся
+Из всех попыток 50% верных
+4	
+7
+Tony Lenc: Correct
+Тимур Гуев: Correct
+Tony Lenc: Wrong
+Духота Душнилов: Wrong
+Духота Душнилов: Wrong
+Духота Душнилов: Wrong
+Духота Душнилов: Correct
+Верно решили 3 учащихся
+Из всех попыток 43% верных
+5	
+0
+Вы можете стать первым, кто решит эту задачу
+6	
+9
+Anonymous 644521158: Wrong
+Code Cracker777: Correct
+infinite loop guru: Correct
+питонист123: Wrong
+тот самый сын маминой подруги: Correct
+Anonymous 644521158: Correct
+infinite loop guru: Correct
+тот самый сын маминой подруги: Correct
+тот самый сын маминой подруги: Correct
+Верно решили 4 учащихся
+Из всех попыток 78% верных
+7	
+13
+Anonymous 944521158: Wrong
+Лера Демидова 11А: Correct
+Anonymous 644521458: Wrong
+Anonymous 674521158: Wrong
+Илон Маскович: Wrong
+Илон Маскович: Correct
+_гуманитарий_в_душе_: Wrong
+Anonymous 674521158: Correct
+любитель шахмат45: Wrong
+любитель шахмат45: Wrong
+Петя Васильев: Wrong
+любитель шахмат45: Wrong
+Искусственный разум228: Correct
+Верно решили 4 учащихся
+Из всех попыток 31% верных
+8	
+8
+CaNDblP1: Correct
+ruster74: Correct
+Anonymous 944521154: Wrong
+Anonymous 1044521158: Wrong
+anton7: Wrong
+Anonymous 1044521158: Correct
+sergey4: Correct
+Михаил Подолев: Correct
+Верно решили 5 учащихся
+Из всех попыток 63% верных
+9	
+8
+Николай_Яровой02: Wrong
+ruster74: Wrong
+Л_е_р_м_о_н_т_о_в: Wrong
+Anonymous 1044521158: Wrong
+Александр Пушкин Сергеевич: Wrong
+Михаил ИС: Wrong
+Anonymous 1044521741: Wrong
+sergey4: Correct
+Верно решили 1 учащихся
+Из всех попыток 13% верных
+10	
+3
+arti87: Correct
+Anonymous 1044521741: Wrong
+Олег Новосельцев: Wrong
+Верно решили 1 учащихся
+Из всех попыток 33% верных
+11	
+7
+Иван Мальцев 9Б: Wrong
+Иван Мальцев 9Б: Wrong
+Иван Мальцев 9Б: Correct
+Аркадий А.М.: Correct
+Anonymous 1044521444: Wrong
+Anonymous 1044521444: Correct
+Anonymous 10445274111: Correct
+Верно решили 4 учащихся
+Из всех попыток 57% верных
+12	
+7
+Денис Розанов 9Б: Wrong
+Илья Недогреенко 8В: Wrong
+Демид АИ: Correct
+Аркадий А.М.: Wrong
+Anonymous 1044521444: Wrong
+Forever Knight: Wrong
+Anonymous 10445274111: Wrong
+Верно решили 1 учащихся
+Из всех попыток 14% верных
+13	
+51
+john rocks: Wrong
+Kristina Pavlova: Correct
+Johny D: Correct
+Masha Orlova: Correct
+Masha Orlova: Correct
+john rocks: Correct
+Vasya Gerulev: Wrong
+Гвидо Я: Wrong
+john rocks: Correct
+Anonymous 732975618: Correct
+Гвидо Я: Correct
+Гвидо Я: Correct
+Vasya Gerulev: Correct
+Johny D: Wrong
+Anonymous 732975618: Wrong
+john rocks: Wrong
+Поколение Python: Wrong
+john rocks: Wrong
+Masha Orlova: Wrong
+Anonymous 652741618: Wrong
+Masha Orlova: Wrong
+john rocks: Wrong
+Vasya Gerulev: Correct
+Гвидо Я: Correct
+Johny D: Wrong
+Vasya Gerulev: Wrong
+john rocks: Correct
+Johny D: Wrong
+Masha Orlova: Wrong
+Гвидо Я: Wrong
+Vasya Gerulev: Wrong
+Vasya Gerulev: Wrong
+Anonymous 652741618: Wrong
+Johny D: Wrong
+Anonymous 652741618: Wrong
+Anonymous 652741618: Wrong
+Anonymous 732975618: Wrong
+Johny D: Wrong
+Kristina Pavlova: Wrong
+Vasya Gerulev: Wrong
+Johny D: Wrong
+Anonymous 732975618: Wrong
+Anonymous 652741618: Wrong
+Anonymous 732975618: Wrong
+Vasya Gerulev: Wrong
+Гвидо Я: Wrong
+Johny D: Wrong
+Anonymous 732975618: Wrong
+Поколение Python: Wrong
+Anonymous 732975618: Wrong
+Anonymous 652741618: Wrong
+Верно решили 7 учащихся
+Из всех попыток 
